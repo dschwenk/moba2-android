@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Restaurant Don Enzo</string>
+
+    <string name="main_bestellen">Bestellen</string>
+    <string name="title_activity_benutzer_daten">BenutzerDaten</string>
+
+    <string-array name="strarray_bezahlm">
+        <item>Bar</item>
+        <item>Paypal</item>
+        <item>Kreditkarte</item>
+    </string-array>
+
+    <string-array name="essen">
+        <item>Pizza Salami</item>
+        <item>Pizza Schinken</item>
+        <item>Pizza Pilze</item>
+        <item>Pizza Hawaii</item>
+        <item>Pizza Speciale</item>
+        <item>Pizza Pilze</item>
+        <item>Pizza Tonno</item>
+        <item>Pizza Vegetaria</item>
+        <item>Pizza Italia</item>
+        <item>Pizza Paprika</item>
+    </string-array>
+
+    <string-array name="trinken">
+        <item>Waser 0.4l</item>
+        <item>Cola 0.4l</item>
+        <item>Fanta 0.4l</item>
+        <item>Radler 0.33l</item>
+        <item>Bier 0.5l</item>
+        <item>Weizen 0.5l</item>
+        <item>Kaffe</item>
+        <item>Cappuchino</item>
+        <item>Tee</item>
+        <item>Eistee 0.4l</item>
+    </string-array>
+
+    <string name="benutzerdaten_insert_vorname">Bitte geben Sie Ihren Vornamen ein.</string>
+    <string name="benutzerdaten_insert_nachname">Geben Sie bitte Ihren Nachnamen ein.</string>
+    <string name="benutzerdaten_insert_tischnummer">Bitte geben Sie die Tischnummer ein.</string>
+
+
+    <string name="abschicken_zusammenfassung">Zusammenfassung</string>
+    <string name="abschicken_vorname">Vorname</string>
+    <string name="abschicken_nachname">Nachname</string>
+    <string name="abschicken_tischnummer">Tischnummer</string>
+    <string name="abschicken_bezahlmethode">Bezahlmethode</string>
+    <string name="abschicken_gericht">Gericht</string>
+    <string name="abschicken_getraenk">Getränk</string>
+    <string name="abschicken_bt">Abschicken</string>
+
+
+    <string name="danke">Vielen Dank für Ihre Bestellung</string>
+    <string name="beenden">Beenden</string>
+
+    <string name="keine_bestellungt">Bestellung unvollständig, bitte wählen Sie ein Getränk oder ein Gericht!</string>
+
+    <string name="title_essen_list">Essen</string>
+    <string name="title_essen_detail">Essen Detail</string>
+    <string name="title_activity_danke">Danke</string>
+    <string name="title_getraenk_list">Getränke</string>
+    <string name="title_getraenk_detail">Getränk Detail</string>
+</resources>
